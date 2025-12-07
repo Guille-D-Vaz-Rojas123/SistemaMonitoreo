@@ -15,7 +15,13 @@ mainframe y haz lo mismo
 Si te aparece el siguiente mensaje es porque ya se logro la conexion al sistema sin ningun problema
 
 ![imagen](https://github.com/Guille-D-Vaz-Rojas123/SistemaMonitoreo/blob/950be9d15e779191bb3b59b7f4e714acd05e4103/Conexion%20Completada.jpeg)
-![imagen]
+
+INTERFAZ
+-
+Despues te aparecera la vista de inicio, donde se encuentran los botones de monitor y historico, el nombre de su servidor y el logo de la 
+UNISON, en una interfaz sencilla pero efectiva
+
+![imagen](https://github.com/Guille-D-Vaz-Rojas123/SistemaMonitoreo/blob/fa267b83fe345a9795007ebd44b42a13b34a85de/INTERFAZ.jpeg)
 
 
 
