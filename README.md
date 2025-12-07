@@ -18,10 +18,25 @@ Si te aparece el siguiente mensaje es porque ya se logro la conexion al sistema 
 
 INTERFAZ
 -
+
 Despues te aparecera la vista de inicio, donde se encuentran los botones de monitor y historico, el nombre de su servidor y el logo de la 
 UNISON, en una interfaz sencilla pero efectiva
 
 ![imagen](https://github.com/Guille-D-Vaz-Rojas123/SistemaMonitoreo/blob/fa267b83fe345a9795007ebd44b42a13b34a85de/INTERFAZ.jpeg)
+
+Procedimos a entrar al boton de monitor donde este graficara a los datos del puerto que este seleccionado o detectado, apareciendo
+los datos de la siguiente manera graficada de una dinamica manera
+
+![imagen](https://github.com/Guille-D-Vaz-Rojas123/SistemaMonitoreo/blob/00903c7d623bfcaa0bb3ff75555d3ce7e2d66cb2/Monitor.jpeg)
+
+El boton de historico funciona buscar datos especificos poniendo una fecha y una hora en especifico, ahi veremos la frecuencia de datos
+de ese dia
+
+![imagen](https://github.com/Guille-D-Vaz-Rojas123/SistemaMonitoreo/blob/25ef7690d84b0c0c556c266cfff240921adaded4/Historico.jpeg)
+
+
+
+
 
 
 
